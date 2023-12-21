@@ -4,7 +4,7 @@ As a component of the Computational Human Genomics course instructed by Dr. Yari
 
 ### Authors
 
-- Thomas Sirchi
+- Thomas Sirchi @Thokas99
 - Nicola Perotti
 - Chiara Rosati
 
